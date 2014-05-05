@@ -1,0 +1,27 @@
+{
+  "name": "ivodka",
+  "version": "0.0.1",
+  "description": "API Testing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rayshih/ivodka.git"
+  },
+  "keywords": [
+    "API",
+    "test"
+  ],
+  "author": "Ray Shih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayshih/ivodka/issues"
+  },
+  "homepage": "https://github.com/rayshih/ivodka",
+  "dependencies": {
+	"node.flow": "1.2.3",
+	"request": "2.34.0"
+  }
+}
